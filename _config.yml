@@ -1,3 +1,6 @@
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 Title: Daniel Sitorus
 Description: Aspiring Data Analytics/Visualisation Student with keen interest in leveraging Data to solve real-world problems. Currently sharpening my skills in visualisation and machine learning. Alywas eager to learn new techniques and collaborate on exciting projects. My Github is a collection of projects that showcases my journey. Lets connect and explore the world of Data!
 theme: jekyll-theme-minimal
