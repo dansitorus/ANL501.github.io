@@ -1,8 +1,8 @@
 ### Analysis of HDB Resale Market Trends (1990-2023)
-   -Conducted an Analysis of historical trends on the Housing & Development Board(HDB). 
-   -Created series of graphs like the Singapore map to see disparities in prices at different locations
-   -Compliled findings into a detailed report
-    - Apps Used: R, Rstudio, Microsoft Excel, Gmaps
+   - Conducted an Analysis of historical trends on the Housing & Development Board(HDB). 
+   - Created series of graphs like the Singapore map to see disparities in prices at different locations
+   - Compliled findings into a detailed report
+   - Apps Used: R, Rstudio, Microsoft Excel, Gmaps
    
 
 
