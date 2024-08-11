@@ -1,4 +1,4 @@
-### Analysis of HDB Resale Market Trends (1990-2023)
+### Analysis of HDB Resale Market Trends (1990-2023) - [Read More](https://dansitorus.github.io/HDB-Analysis/)
    - Conducted an Analysis of historical trends on the Housing & Development Board(HDB). 
    - Created series of graphs like the Singapore map to see disparities in prices at different locations
    - Compliled findings into a detailed report
