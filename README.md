@@ -13,3 +13,9 @@
     - Inclusion of Rainfall Data as a predictor in a dynamic regression framework
     - Rainfall had a negative effect on temperature and rainfall was not a reliable predictor for temperature
  - Apps Used: R, Rstudio, Microsoft Excel
+
+
+### Student engagement analysis on Zoom
+ - Visualizing Accumulated Airtime from Zoom Transcripts
+ - By presenting the airtime data, this visualization helps illustrate student participation levels, offering educators a clear view of engagement in virtual classroom settings
+ - Apps Used: R, SQL, Python
