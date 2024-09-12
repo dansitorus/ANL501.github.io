@@ -15,7 +15,7 @@
  - Apps Used: R, Rstudio, Microsoft Excel
 
 
-### Student engagement analysis on Zoom
+### Student engagement analysis on Zoom -  - [Read More](https://github.com/dansitorus/Forecasting-Singapore-Temperature)
  - Visualizing Accumulated Airtime from Zoom Transcripts
  - By presenting the airtime data, this visualization helps illustrate student participation levels, offering educators a clear view of engagement in virtual classroom settings
  - Apps Used: R, SQL, Python
